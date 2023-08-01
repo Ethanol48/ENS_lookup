@@ -175,7 +175,7 @@ export default function Home() {
       <Head>
         <title>ENS Lookup</title>
         <meta name="description" content="ENS-Resolver-Dapp" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" href="/favicon.png" />
       </Head>
       <div className={styles.main}>
         <div>
