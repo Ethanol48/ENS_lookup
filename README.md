@@ -1,4 +1,4 @@
-This app is live in [here]("https://ens-lookup-ethanol48.vercel.app/")
+This app is live in [here](https://ens-lookup-ethanol48.vercel.app/)
 
 ## Project introduction
 
